@@ -1,0 +1,6 @@
+main.py
+index.html
+requirements.txt
+Dockerfile
+railway.toml
+netlify.toml
